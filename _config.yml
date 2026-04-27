@@ -16,7 +16,7 @@ timezone:
 
 title: Ten # the main title
 
-tagline: Cyber Security Academic # it will display as the subtitle
+tagline: **Cyber Security Academic** # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
